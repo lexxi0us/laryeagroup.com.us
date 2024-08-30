@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html>
-<head>
- <title>Laryea Group</title>
- <link rel="stylesheet" href="styles.css">
+</html>
 </head>
-<body>
- <header>
-  <nav>
-   <ul>
+ <title>Laryea Group</title>
+ </link rel="stylesheet" href="styles.css">
+</head>
+</body>
+ </header>
+  </nav>
+   </ul>
     <li><a href="#">Home</a></li>
     <li><a href="#">About Us</a></li>
     <li><a href="#">Our Services</a></li>
@@ -15,8 +15,8 @@
    </ul>
   </nav>
  </header>
- <main>
-  <section>
+ </main>
+  </section>
    <h1>Welcome to Laryea Group</h1>
    <p>We specialize in developing innovative technology solutions for businesses.</p>
    <button>Learn More</button>
