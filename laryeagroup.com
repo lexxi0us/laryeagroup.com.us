@@ -2,7 +2,7 @@
 </html>
 </head>
  <title>Laryea Group</title>
- </link rel="stylesheet" href="styles.css">
+ </link rel="stylesheet" href="styles.html">
 </head>
 </body>
  </header>
