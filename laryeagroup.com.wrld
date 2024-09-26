@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Laryea Tech Company and Laryea Group - Innovating Technology and Business Solutions">
+    <meta name="keywords" content="Laryea Tech, Laryea Group, Technology, Business, Solutions, Innovation">
+    <meta name="author" content="Laryea Group">
+    
+    <!-- Open Graph Meta Tags for social media -->
+    <meta property="og:title" content="Laryea Tech Company and Laryea Group">
+    <meta property="og:description" content="Leading innovation in technology and business solutions.">
+    <meta property="og:image" content="https://example.com/logo.png">
+    <meta property="og:url" content="https://laryeagroup.com">
+    
+    <title>Laryea Tech Company & Laryea Group</title>
+
+    <!-- Link to CSS file (if any) -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Laryea Tech Company & Laryea Group</h1>
+        <nav>
+            <ul>
+                <li><a href="#tech-company">Laryea Tech Company</a></li>
+                <li><a href="#group">Laryea Group</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <!-- Laryea Tech Company Section -->
+        <section id="tech-company">
+            <h2>Laryea Tech Company</h2>
+            <p>At Laryea Tech, we provide cutting-edge technology solutions for businesses to thrive in a digital world.</p>
+        </section>
+
+        <!-- Laryea Group Section -->
+        <section id="group">
+            <h2>Laryea Group</h2>
+            <p>The Laryea Group offers diversified business solutions and consultancy to help companies grow and succeed.</p>
+        </section>
+
+        <!-- About Us Section -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Laryea Tech Company and Laryea Group are focused on delivering innovative technology and business solutions to clients worldwide. Our expertise spans various industries, making us a trusted partner for growth.</p>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="mailto:info@laryeagroup.com">info@laryeagroup.com</a></p>
+            <p>Phone: +19802820446</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Laryea Tech Company & Laryea Group. All Rights Reserved.</p>
+    </footer>
+
+    <!-- Script for any JS functionality -->
+    <script src="scripts.js"></script>
+</body>
+</html>
